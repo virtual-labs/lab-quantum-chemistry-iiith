@@ -1,17 +1,16 @@
 {
-    "broadArea": {
-        "name": "Civil Engineering",
-        "link": "https://www.vlab.co.in/broad-area-civil-engineering"
-    },
-    "lab": "Quantum Chemistry",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "ccnsb04-iiith.vlabs.ac.in",
-    "introduction": "This lab deals with quantum chemical calcuations, which is one of the major aspects of computational chemistry. Quantum Mechanics is the feild of physics that deals with systems showing both particle and wave like behaviour and Quantum Chemistry is the application of this Quantum Mechanical machinery to the systems in which chemical information is explicitly used (for example, positions of atoms in the molecule, or the number of electrons etc.,), to predict chemical behaviour/properties of the system.",
-    "experiments": 
-    [
-     {
+  "broadArea": {
+    "name": "Chemical Sciences",
+    "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+  },
+  "lab": "Quantum Chemistry",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "ccnsb04-iiith.vlabs.ac.in",
+  "introduction": "This lab deals with quantum chemical calcuations, which is one of the major aspects of computational chemistry. Quantum Mechanics is the feild of physics that deals with systems showing both particle and wave like behaviour and Quantum Chemistry is the application of this Quantum Mechanical machinery to the systems in which chemical information is explicitly used (for example, positions of atoms in the molecule, or the number of electrons etc.,), to predict chemical behaviour/properties of the system.",
+  "experiments": [
+    {
       "name": "Conformational analysis of 1,2-dichloroethane",
       "short-name": "conformational-analysis",
       "repo": "https://github.com/virtual-labs/exp-conformational-analysis-iiith",
@@ -53,14 +52,25 @@
       "tag": "v1.0.0",
       "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "Final year of B.Tech. Chemical/Materials/Biotechnolgy Engineering",
+      "B. Pharmacy",
+      "Biomed Engineering"
     ],
-    "targetAudience": {
-        "UG": ["Final year of B.Tech. Chemical/Materials/Biotechnolgy Engineering","B. Pharmacy","Biomed Engineering"],
-        "PG": ["Chemistry","Chemical/Materials/Biomedical Engineering","Biotech & Pharm"]
-    },
-    "objective": "This labs aims to build knowledge of analyzing movements in molecules based on the reactions and understanding the trends observed during the process.",
-    "courseAlignment": {
-        "description": "Universities with Civil Engineering",
-        "universities": []
-    }
+    "PG": [
+      "Chemistry",
+      "Chemical/Materials/Biomedical Engineering",
+      "Biotech & Pharm"
+    ]
+  },
+  "objective": "This labs aims to build knowledge of analyzing movements in molecules based on the reactions and understanding the trends observed during the process.",
+  "courseAlignment": {
+    "description": "",
+    "universities": ["Universities with Civil Engineering"]
+  },
+  "exp_name": "Intrinsic Reaction Co-ordinate for a SN2 reaction",
+  "exp_short_name": "intrinsic-reaction",
+  "version": "v0.2.0"
 }
