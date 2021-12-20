@@ -28,7 +28,7 @@
       "name": "Vib-rotational Spectroscopy of Carbon dioxide",
       "short-name": "carbon-di-oxide",
       "repo": "https://github.com/virtual-labs/exp-carbon-di-oxide-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -42,14 +42,14 @@
       "name": "Frequency Analysis for a SN2 reaction",
       "short-name": "frequency-analysis",
       "repo": "https://github.com/virtual-labs/exp-frequency-analysis-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Intrinsic Reaction Co-ordinate for a SN2 reaction",
       "short-name": "intrinsic-reaction",
       "repo": "https://github.com/virtual-labs/exp-intrinsic-reaction-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
@@ -72,5 +72,5 @@
   },
   "exp_name": "Intrinsic Reaction Co-ordinate for a SN2 reaction",
   "exp_short_name": "intrinsic-reaction",
-  "version": "v0.5.0"
+  "version": "v0.6.0"
 }
