@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Chemical Sciences",
     "link": "https://www.vlab.co.in/broad-area-chemical-sciences",
-    "code":"CHEMSCI"
+    "code": "CHEMSCI"
   },
   "lab": "Quantum Chemistry",
   "deployLab": true,
@@ -69,9 +69,11 @@
   "objective": "This labs aims to build knowledge of analyzing movements in molecules based on the reactions and understanding the trends observed during the process.",
   "courseAlignment": {
     "description": "",
-    "universities": ["Universities with Civil Engineering"]
+    "universities": [
+      "Universities with Civil Engineering"
+    ]
   },
-  "exp_name": "Intrinsic Reaction Co-ordinate for a SN2 reaction",
-  "exp_short_name": "intrinsic-reaction",
-  "version": "v0.6.0"
+  "exp_name": "",
+  "exp_short_name": "",
+  "version": ""
 }
