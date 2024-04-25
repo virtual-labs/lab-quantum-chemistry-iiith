@@ -5,6 +5,7 @@
     "code": "CHEMSCI"
   },
   "lab": "Quantum Chemistry",
+  "lab_display_name": "Quantum Chemistry",
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "ccnsb04-iiith.vlabs.ac.in",
